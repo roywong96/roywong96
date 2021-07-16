@@ -16,7 +16,7 @@ My name is Roy and I'm a final year Master of Analytics student in Australia. He
 - Statistics
 - Machine Learning
 
-💬 Reach me by email or LinkedIn: roy.971024@gmail.com | https://www.linkedin.com/in/roywong96/
+💬 Reach me by email or LinkedIn: [G-mail](roy.971024@gmail.com) | [LinkedIn](https://www.linkedin.com/in/roywong96/)
 
 
 📫 View my Portfolio [here](https://roywong96.github.io/Projects/)
