@@ -11,6 +11,7 @@ Current Project
 
 Interest:
 
+- Storytelling with Data
 - Data Analytics
 - Statistics
 - Machine Learning
