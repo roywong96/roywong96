@@ -2,7 +2,7 @@
 
 My name is Roy and I'm a final year Master of Analytics student in Australia. Here are some info about me!
 
-🔭 Current Project
+🔭 Current Project:
 
 - I’m currently in collaboration working on Fundamental Analysis in Stock Price based on factors either derived or extracted from S&P 500 companies using :
   - Cash Flows
