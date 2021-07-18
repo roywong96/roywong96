@@ -12,7 +12,7 @@ My name is Roy and I'm a final year Master of Analytics student in Australia. He
 🌱 Interest:
 
 - Storytelling with Data
-- Data Analytics
+- Analytics
 - Statistics
 - Machine Learning
 
