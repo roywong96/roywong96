@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Roy and I'm a final year Master of Analytics student in Australia. Here are some info about me!
+My name is Roy and I'm a Master of Analytics graduate from Australia. Here are some info about me!
 
 🔭 Current Project:
 
