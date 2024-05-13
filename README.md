@@ -4,9 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Engineer | Data Scientist | Data Analyst | MLOps | Ex-EY AI & Data
 -----------------------------------------------------------------------
 
-I'm a Master of Analytics graduate from RMIT, complemented by a double major of Physics and Mathematics University of Melbourne. My journey encompasses impactful roles at Ernst & Young, where I spearheaded AI and data analytics projects, optimizing operations for prominent shipping companies with crane hang detection. I have also carried out **end-to-end Machine Learning Solution** from Data Sourcing, Exploratory Data Analysis, Feature Engineering, Model Building and Model Deployment for an Upstream Oil and Gas Project.
+I'm a Master of Analytics graduate from RMIT, complemented by a double major of Physics and Mathematics University of Melbourne. My journey encompasses impactful roles at **Ernst & Young**, where I spearheaded AI and data analytics projects, optimizing operations for prominent shipping companies with crane hang detection. I have also carried out **end-to-end Machine Learning Solution** from Data Sourcing, Exploratory Data Analysis, Feature Engineering, Model Building and Model Deployment for an Upstream Oil and Gas Project.
 
-At Yarra Energy Foundation, I pioneered clean energy solutions, demonstrating expertise in deep learning, predictive modeling, and data analysis. Armed with certifications in Azure and a proficiency in programming languages like Python, coupled with a passion for continuous learning and social impact initiatives, I'm dedicated to driving innovation and solving complex challenges in the realm of data analytics and beyond.
+At **Yarra Energy Foundation**, I pioneered clean energy solutions, demonstrating expertise in deep learning, predictive modeling, and data analysis. Armed with certifications in Azure and a proficiency in programming languages like Python, coupled with a passion for continuous learning and social impact initiatives, I'm dedicated to driving innovation and solving complex challenges in the realm of data analytics and beyond.
 
 * 🌍  I'm based in Kuala Lumpur, Malaysia
 * 🖥️  See my portfolio at [Data Science Projects](http://roywong96.github.io/Projects/)
