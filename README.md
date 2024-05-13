@@ -4,9 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Engineer | Data Scientist | Data Analyst | MLOps | Ex-EY AI & Data
 -----------------------------------------------------------------------
 
-I'm a Master of Analytics graduate from RMIT, complemented by a double major of Physics and Mathematics University of Melbourne. My journey encompasses impactful roles at **Ernst & Young**, where I spearheaded AI and data analytics projects, optimizing operations for prominent shipping companies with crane hang detection. I have also carried out **end-to-end Machine Learning Solution** from Data Sourcing, Exploratory Data Analysis, Feature Engineering, Model Building and Model Deployment for an Upstream Oil and Gas Project.
-
-At **Yarra Energy Foundation**, I pioneered clean energy solutions, demonstrating expertise in deep learning, predictive modeling, and data analysis. Armed with certifications in Azure and a proficiency in programming languages like Python, coupled with a passion for continuous learning and social impact initiatives, I'm dedicated to driving innovation and solving complex challenges in the realm of data analytics and beyond.
+I'm a Master of Analytics graduate from RMIT, complemented by a double major of Physics and Mathematics University of Melbourne. My journey encompasses impactful roles at \*\*Ernst & Young\*\*, where I spearheaded AI and data analytics projects, optimizing operations for prominent shipping companies with crane hang detection. I have also carried out \*\*end-to-end Machine Learning Solution\*\* from Data Sourcing, Exploratory Data Analysis, Feature Engineering, Model Building and Model Deployment for an Upstream Oil and Gas Project. At \*\*Yarra Energy Foundation\*\*, I pioneered clean energy solutions, demonstrating expertise in deep learning, predictive modeling, and data analysis. Armed with certifications in Azure and a proficiency in programming languages like Python, coupled with a passion for continuous learning and social impact initiatives, I'm dedicated to driving innovation and solving complex challenges in the realm of data analytics and beyond.
 
 * 🌍  I'm based in Kuala Lumpur, Malaysia
 * 🖥️  See my portfolio at [Data Science Projects](http://roywong96.github.io/Projects/)
@@ -32,3 +30,5 @@ At **Yarra Energy Foundation**, I pioneered clean energy solutions, demonstratin
 <a href="http://www.github.com/roywong96"><img src="https://github-readme-stats.vercel.app/api?username=roywong96&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="roywong96's GitHub stats" /></a>
 
 <a href="http://www.github.com/roywong96"><img src="https://github-readme-streak-stats.herokuapp.com/?user=roywong96&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="https://github.com/roywong96" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roywong96&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
