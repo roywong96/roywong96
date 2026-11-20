@@ -2,9 +2,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ================================================================================================================================
 
  
-**Data Engineer @ AIA Malaysia · Full Stack Data Professional (Data Engineer · Machine Learning Engineer · Data Analyst) · Ex-EY · Ex-Shopee**
+**Data Engineer @ AIA Malaysia · Full Stack Data Professional**
+Data Engineer · Machine Learning Engineer · Data Analyst | Ex-EY · Ex-Shopee
  
-I build the plumbing that turns raw data into trusted tables, production ML, and dashboards that executives actually use.
+*I build the plumbing that turns raw data into trusted tables, production ML, and dashboards that executives actually use.*
  
 - 🌍 Based in Kuala Lumpur, Malaysia
 - ✉️ [roy.971024@gmail.com](mailto:roy.971024@gmail.com) · [LinkedIn](https://www.linkedin.com/in/roywong96)
