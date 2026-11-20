@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ================================================================================================================================
 
  
-**Data Engineering Specialist @ AIA Malaysia · ML Engineer · Ex-EY · Ex-Shopee**
+**Data Engineering @ AIA Malaysia · ML Engineer · Ex-EY · Ex-Shopee**
  
 I build the plumbing that turns raw data into trusted tables, production ML, and dashboards that executives actually use.
  
