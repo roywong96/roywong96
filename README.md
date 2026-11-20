@@ -1,17 +1,44 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Roy Wong
 ================================================================================================================================
 
-Data Engineer | Data Scientist | Data Analyst | MLOps | Ex-EY AI & Data
------------------------------------------------------------------------
-
-I'm a Master of Analytics graduate from RMIT, complemented by a double major of Physics and Mathematics University of Melbourne. My journey encompasses impactful roles at **Ernst & Young**, where I spearheaded AI and data analytics projects, optimizing operations for prominent shipping companies with crane hang detection. I have also carried out **end-to-end Machine Learning Solution** from Data Sourcing, Exploratory Data Analysis, Feature Engineering, Model Building and Model Deployment for an Upstream Oil and Gas Project. 
-
-At **Yarra Energy Foundation**, I pioneered clean energy solutions, demonstrating expertise in deep learning, predictive modeling, and data analysis. Armed with certifications in Azure and a proficiency in programming languages like Python, coupled with a passion for continuous learning and social impact initiatives, I'm dedicated to driving innovation and solving complex challenges in the realm of data analytics and beyond.
-
-* 🌍  I'm based in Kuala Lumpur, Malaysia
-* 🖥️  See my portfolio at [Data Science Projects](http://roywong96.github.io/Projects/)
-* ✉️  You can contact me at [roy.971024@gmail.com](mailto:roy.971024@gmail.com)
-* 🧠  I'm learning A machine learning regression problem to determine the average salary of a Data Scientist based on the relevant features.
+README · MD
+# Hi, I'm Roy Wong 👋
+ 
+**Data Engineering Specialist @ AIA Malaysia · ML Engineer · Ex-EY · Ex-Shopee**
+ 
+I build the plumbing that turns raw data into trusted tables, production ML, and dashboards that executives actually use.
+ 
+- 🌍 Based in Kuala Lumpur, Malaysia
+- ✉️ [roy.971024@gmail.com](mailto:roy.971024@gmail.com) · [LinkedIn](https://www.linkedin.com/in/roywong96)
+- 🧠 Focus: **Data Engineering → Analytics Engineering → MLOps / AI Engineering**
+- 🌱 Currently deepening: Spark performance tuning, data quality frameworks, productionising ML on Azure
+---
+ 
+## 🔧 What I do
+ 
+**Data Engineering**
+- Build scalable ETL/ELT pipelines with Azure Data Factory, Databricks, PySpark and SQL
+- Tune Spark jobs (partitioning, caching) to cut runtime and cloud cost
+- Orchestrate daily loads with Databricks Jobs
+- Add automated data quality checks and monitoring so pipelines fail less
+**MLOps & DevOps**
+- Ship models to production with CI/CD on Azure DevOps
+- Automate training, monitoring and feature stores across the model lifecycle
+**Analytics Engineering**
+- Design data marts and models that downstream teams can trust
+- Build executive dashboards (Power BI, advanced DAX)
+---
+ 
+## 💼 Experience
+ 
+| When | Role | Highlights |
+|---|---|---|
+| Nov 2025 – Present | **Data Engineering Specialist, AIA Malaysia** | ADF + Databricks ingestion pipelines, PySpark optimisation, Databricks Jobs orchestration, data marts, automated data quality monitoring |
+| May 2024 – Nov 2025 | **Senior Data Analyst, Shopee** | Automated ETL (SQL, PySpark, Python), refactored legacy scripts into modular pipelines to meet executive SLAs, dashboards for Fraud and Payment teams |
+| Oct 2023 – May 2024 | **Senior Data / ML Engineer, EY** | End-to-end ML/MLOps on Azure DevOps, feature stores, Power BI + DAX dashboards, stakeholder management through to UAT, L1 production support |
+| Jan 2022 – Oct 2023 | **Associate, EY** | AI and data analytics projects, including crane-hang detection for shipping companies and an end-to-end ML solution (data sourcing → EDA → feature engineering → modelling → deployment) for an upstream oil & gas project |
+ 
+---
 
 ### Skills
 
