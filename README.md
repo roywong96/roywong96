@@ -18,8 +18,7 @@ Data Engineer · Machine Learning Engineer · Data Analyst | Ex-EY · Ex-Shopee
 **Data Engineering**
 - Build scalable ETL/ELT pipelines with Azure Data Factory, Databricks, PySpark and SQL
 - Tune Spark jobs (partitioning, caching) to cut runtime and cloud cost
-- Orchestrate daily loads with Databricks Jobs
-- Add automated data quality checks and monitoring so pipelines fail less
+- Orchestrate daily loads with Databricks Jobs with Data Quality Checks
 
 **Analytics Engineering**
 - Design data marts and models that downstream teams can trust
