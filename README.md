@@ -21,13 +21,14 @@ Data Engineer · Machine Learning Engineer · Data Analyst | Ex-EY · Ex-Shopee
 - Orchestrate daily loads with Databricks Jobs
 - Add automated data quality checks and monitoring so pipelines fail less
 
+**Analytics Engineering**
+- Design data marts and models that downstream teams can trust
+- Build executive dashboards (Power BI, advanced DAX)
+
 **MLOps & DevOps**
 - Ship models to production with CI/CD on Azure DevOps
 - Automate training, monitoring and feature stores across the model lifecycle
 
-**Analytics Engineering**
-- Design data marts and models that downstream teams can trust
-- Build executive dashboards (Power BI, advanced DAX)
 ---
  
 ## 💼 Experience
