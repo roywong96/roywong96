@@ -32,7 +32,7 @@ Data Engineer · Machine Learning Engineer · Data Analyst | Ex-EY · Ex-Shopee
  
 | When | Role | Highlights |
 |---|---|---|
-| Nov 2025 – Present | **Data Engineering Specialist, AIA Malaysia** | ADF + Databricks ingestion pipelines, PySpark optimisation, Databricks Jobs orchestration, data marts, automated data quality monitoring |
+| Nov 2025 – Present | **Data Engineer, AIA Malaysia** | ADF + Databricks ingestion pipelines, PySpark optimisation, Databricks Jobs orchestration, data marts, automated data quality monitoring |
 | May 2024 – Nov 2025 | **Senior Data Analyst, Shopee** | Automated ETL (SQL, PySpark, Python), refactored legacy scripts into modular pipelines to meet executive SLAs, dashboards for Fraud and Payment teams |
 | Oct 2023 – May 2024 | **Senior Data / ML Engineer, EY** | End-to-end ML/MLOps on Azure DevOps, feature stores, Power BI + DAX dashboards, stakeholder management through to UAT, L1 production support |
 | Jan 2022 – Oct 2023 | **Associate, EY** | AI and data analytics projects, including crane-hang detection for shipping companies and an end-to-end ML solution (data sourcing → EDA → feature engineering → modelling → deployment) for an upstream oil & gas project |
